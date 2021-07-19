@@ -1,0 +1,30 @@
+body
+{
+  background-color: #ACFFAD;
+}
+
+h1
+{
+  font-family: 'Zen Loop', cursive;
+  font-size: 150px;
+  margin-top: 0;
+
+}
+h2
+{
+  font-family: 'Zen Loop', cursive;
+  font-size: 90px;
+}
+
+h3
+{
+  font-family: 'Zen Loop', cursive;
+  font-size: 40px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.forests{
+  width:100px;
+  
+}
